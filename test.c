@@ -19,3 +19,11 @@ int main(void)
     iky_FREE(myPoints);
     return 0;
 }
+
+/*
+Output:
+X: 1    Y: 3
+X: 0    Y: 5
+X: 6    Y: 1
+X: 3    Y: 3
+*/
